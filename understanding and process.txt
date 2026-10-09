@@ -1,0 +1,26 @@
+Name: Elamathi M
+Dept: AI & DS
+Clg: SSEC
+Location: Karamadai,mettupalayam
+
+
+Name: Kalaivani M
+Dept: AI & DS
+Clg: SSEC
+Location: Karamadai,mettupalayam
+
+
+Name: Ehzil M.J
+Dept: AI & DS
+Clg: SSEC
+Location: Karamadai,mettupalayam
+
+
+Name: Mahehwari M
+Dept: AI & DS
+Clg: SSEC
+Location: Karamadai,mettupalayam
+
+
+
+
